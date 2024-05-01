@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 currently pursuing my master's from IIIT Delhi <br>💻Looking for freelancing job in Python<br>Ask me about Python 🐍
+👨‍🎓 currently pursuing my master's from IIIT Delhi <br>💻 Looking for freelancing job in Python<br>💪 Ask me anything about Python 🐍
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shraman-jain) 
