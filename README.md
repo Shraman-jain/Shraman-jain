@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing my master's from IIIT Delhi<br>I'm looking for freelancing job in Python<br>Ask me about Python
+👨‍🎓 currently pursuing my master's from IIIT Delhi <br>💻Looking for freelancing job in Python<br>Ask me about Python 🐍
 
 
 ## 🌐 Socials:
