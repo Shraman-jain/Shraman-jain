@@ -19,19 +19,16 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shraman-jain) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+## 💻 Tech Stack:
 
+<div align="center">
 
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+<a href="#" target="_blank">
+<img src="https://skillicons.dev/icons?i=python,pycharm,sklearn,selenium,tensorflow,opencv,mongodb,mysql,flask,django,postman,cpp,java,androidstudio,aws,heroku,firebase,git,github,figma&perline=10" />
+</a>
 </div>
+
+
 <br>
 
 <details><summary>🚀 Open Source Contributions:</summary>
@@ -52,32 +49,33 @@
   </table>
 </details>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
-<br>
+<div align="center">
 
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shraman-jain&theme=radical" alt="Profile Summary">
-</td>
-</tr>
-</table>
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shraman-jain&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shraman-jain&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shraman-jain&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shraman-jain&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shraman-jain&theme=radical&utcOffset=8">
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=shraman-jain&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=shraman-jain&theme=radical">
 
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=shraman-jain&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
-</td>
-<td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=shraman-jain&theme=radical" alt="Streak Stats"/>
-</td>
-</tr>
-</table>
-<br>
+</div><br>
+
+# 🎖 Badges
+### GSSoC'24 Badges
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+</div>
 
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ---
